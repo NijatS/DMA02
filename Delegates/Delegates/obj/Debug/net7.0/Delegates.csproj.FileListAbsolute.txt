@@ -1,0 +1,15 @@
+C:\Users\Nijat\OneDrive\Desktop\DMA02\Delegates\Delegates\bin\Debug\net7.0\Delegates.exe
+C:\Users\Nijat\OneDrive\Desktop\DMA02\Delegates\Delegates\bin\Debug\net7.0\Delegates.deps.json
+C:\Users\Nijat\OneDrive\Desktop\DMA02\Delegates\Delegates\bin\Debug\net7.0\Delegates.runtimeconfig.json
+C:\Users\Nijat\OneDrive\Desktop\DMA02\Delegates\Delegates\bin\Debug\net7.0\Delegates.dll
+C:\Users\Nijat\OneDrive\Desktop\DMA02\Delegates\Delegates\bin\Debug\net7.0\Delegates.pdb
+C:\Users\Nijat\OneDrive\Desktop\DMA02\Delegates\Delegates\obj\Debug\net7.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\OneDrive\Desktop\DMA02\Delegates\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\DMA02\Delegates\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfo.cs
+C:\Users\Nijat\OneDrive\Desktop\DMA02\Delegates\Delegates\obj\Debug\net7.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\DMA02\Delegates\Delegates\obj\Debug\net7.0\Delegates.sourcelink.json
+C:\Users\Nijat\OneDrive\Desktop\DMA02\Delegates\Delegates\obj\Debug\net7.0\Delegates.dll
+C:\Users\Nijat\OneDrive\Desktop\DMA02\Delegates\Delegates\obj\Debug\net7.0\refint\Delegates.dll
+C:\Users\Nijat\OneDrive\Desktop\DMA02\Delegates\Delegates\obj\Debug\net7.0\Delegates.pdb
+C:\Users\Nijat\OneDrive\Desktop\DMA02\Delegates\Delegates\obj\Debug\net7.0\Delegates.genruntimeconfig.cache
+C:\Users\Nijat\OneDrive\Desktop\DMA02\Delegates\Delegates\obj\Debug\net7.0\ref\Delegates.dll
