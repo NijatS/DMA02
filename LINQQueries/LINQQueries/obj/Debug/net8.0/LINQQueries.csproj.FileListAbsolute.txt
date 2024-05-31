@@ -1,0 +1,15 @@
+C:\Users\Nijat\OneDrive\Desktop\DMA02\LINQQueries\LINQQueries\bin\Debug\net8.0\LINQQueries.exe
+C:\Users\Nijat\OneDrive\Desktop\DMA02\LINQQueries\LINQQueries\bin\Debug\net8.0\LINQQueries.deps.json
+C:\Users\Nijat\OneDrive\Desktop\DMA02\LINQQueries\LINQQueries\bin\Debug\net8.0\LINQQueries.runtimeconfig.json
+C:\Users\Nijat\OneDrive\Desktop\DMA02\LINQQueries\LINQQueries\bin\Debug\net8.0\LINQQueries.dll
+C:\Users\Nijat\OneDrive\Desktop\DMA02\LINQQueries\LINQQueries\bin\Debug\net8.0\LINQQueries.pdb
+C:\Users\Nijat\OneDrive\Desktop\DMA02\LINQQueries\LINQQueries\obj\Debug\net8.0\LINQQueries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\OneDrive\Desktop\DMA02\LINQQueries\LINQQueries\obj\Debug\net8.0\LINQQueries.AssemblyInfoInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\DMA02\LINQQueries\LINQQueries\obj\Debug\net8.0\LINQQueries.AssemblyInfo.cs
+C:\Users\Nijat\OneDrive\Desktop\DMA02\LINQQueries\LINQQueries\obj\Debug\net8.0\LINQQueries.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\DMA02\LINQQueries\LINQQueries\obj\Debug\net8.0\LINQQueries.sourcelink.json
+C:\Users\Nijat\OneDrive\Desktop\DMA02\LINQQueries\LINQQueries\obj\Debug\net8.0\LINQQueries.dll
+C:\Users\Nijat\OneDrive\Desktop\DMA02\LINQQueries\LINQQueries\obj\Debug\net8.0\refint\LINQQueries.dll
+C:\Users\Nijat\OneDrive\Desktop\DMA02\LINQQueries\LINQQueries\obj\Debug\net8.0\LINQQueries.pdb
+C:\Users\Nijat\OneDrive\Desktop\DMA02\LINQQueries\LINQQueries\obj\Debug\net8.0\LINQQueries.genruntimeconfig.cache
+C:\Users\Nijat\OneDrive\Desktop\DMA02\LINQQueries\LINQQueries\obj\Debug\net8.0\ref\LINQQueries.dll
